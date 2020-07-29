@@ -1,0 +1,17 @@
+07/17/2020 19:30:05.94	Information	Key	LocalStorageVersion	Value	{"IsBoxed":true,"Value":0}	Converted	False	
+07/17/2020 19:30:05.94	Information	LocalSettings version 1 conversion complete
+07/17/2020 19:30:06.00	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+07/17/2020 19:30:06.24	Information	HResult: -2146233088
+Message: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0x233
+
+07/17/2020 19:30:06.25	Information	Unable to read file DataMartConfig.json. Exception: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+07/17/2020 19:30:06.25	Information	HResult: -2146233088
+Message: One or more errors occurred. (The system cannot find the file specified. (Exception from HRESULT: 0x80070002))
+StackTrace:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean) + 0x2d
+   at DataMartServiceAPI.DataMartConfigurationFactory.GetDataMartConfiguration() + 0x233
+
+07/17/2020 19:30:06.25	Information	Setting up Discovery notification from post installation task.
+07/17/2020 19:30:06.26	Information	Registered task with name: OneConnect.DisableNotificationTask
+07/17/2020 19:30:06.28	Information	Registered task with name: OneConnect.DiscoveryNotificationTask

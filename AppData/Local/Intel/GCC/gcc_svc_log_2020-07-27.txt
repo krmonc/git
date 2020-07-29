@@ -1,0 +1,29 @@
+2020-07-27 08:51:25.4765 DEBUG InvokeDriverEscape->D3DKMTEscape failed. Escape Code::207 Error Code: InvalidParameters:0xC000000D 
+2020-07-27 08:52:30.1250 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:30.2700 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:30.2730 INFO GetOEMCustomizationValue. EnableACE Value :1 
+2020-07-27 08:52:30.2730 INFO GetOEMCustomizationValue. EnableSTE Value :0 
+2020-07-27 08:52:34.0170 DEBUG EnableAutoEnhancePlayback. Done 
+2020-07-27 08:52:34.0170 DEBUG SetAllVideoSettings. Writing Win OS video settings done: 
+2020-07-27 08:52:34.0170 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0780 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0780 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0860 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0860 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0860 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0860 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0860 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0990 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0990 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0990 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0990 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0990 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.0990 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.1150 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.1150 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.1150 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.1150 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.1150 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.1310 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.1310 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 
+2020-07-27 08:52:34.1310 ERROR OpenBaseRegistryKey. Exception:Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Intel\Display\igfxcui\MediaKeys' is denied. 

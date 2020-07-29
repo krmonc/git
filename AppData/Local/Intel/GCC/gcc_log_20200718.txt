@@ -1,0 +1,80 @@
+2020-07-18 00:04:51.946 -07:00 [INF] SystemTrayForm. Initializing BST.
+2020-07-18 00:05:20.046 -07:00 [ERR] GetHotkeySettingAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.1
+2020-07-18 00:05:20.592 -07:00 [ERR] GetHotkeySettingIdAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.592 -07:00 [ERR] SaveHotKey. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.594 -07:00 [ERR] RegisterHotKeyEvent. Error: SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.595 -07:00 [ERR] GetHotkeySettingAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.1
+2020-07-18 00:05:20.682 -07:00 [ERR] GetHotkeySettingIdAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.682 -07:00 [ERR] SaveHotKey. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.683 -07:00 [ERR] RegisterHotKeyEvent. Error: SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.684 -07:00 [ERR] GetHotkeySettingAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.1
+2020-07-18 00:05:20.685 -07:00 [ERR] GetHotkeySettingIdAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.686 -07:00 [ERR] SaveHotKey. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.686 -07:00 [ERR] RegisterHotKeyEvent. Error: SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.688 -07:00 [ERR] GetHotkeySettingAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.1
+2020-07-18 00:05:20.688 -07:00 [ERR] GetHotkeySettingIdAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.689 -07:00 [ERR] SaveHotKey. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.689 -07:00 [ERR] RegisterHotKeyEvent. Error: SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.689 -07:00 [ERR] GetHotkeySettingAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.1
+2020-07-18 00:05:20.690 -07:00 [ERR] GetHotkeySettingIdAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.690 -07:00 [ERR] SaveHotKey. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.690 -07:00 [ERR] RegisterHotKeyEvent. Error: SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.691 -07:00 [ERR] GetHotkeySettingAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.1
+2020-07-18 00:05:20.691 -07:00 [ERR] GetHotkeySettingIdAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.691 -07:00 [ERR] SaveHotKey. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.692 -07:00 [ERR] RegisterHotKeyEvent. Error: SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.692 -07:00 [ERR] GetHotkeySettingAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.1
+2020-07-18 00:05:20.693 -07:00 [ERR] GetHotkeySettingIdAsync. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.693 -07:00 [ERR] SaveHotKey. Exception:SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.693 -07:00 [ERR] RegisterHotKeyEvent. Error: SQLite Error 1: 'no such table: HotKeySettings'.
+2020-07-18 00:05:20.909 -07:00 [ERR] GetDriverGamma. Driver Escape Failed.
+2020-07-18 00:05:26.525 -07:00 [INF] ServiceAvailability. Checking is Svc available
+2020-07-18 00:05:27.407 -07:00 [ERR] GetPreferencesIdAsync Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at GCP.DataAccessLibrary.DataAccess.<GetPreferencesSetting>d__100.MoveNext()
+2020-07-18 00:05:37.905 -07:00 [ERR] ServiceAvailability. IGCC Service not available:The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+2020-07-18 00:05:37.913 -07:00 [ERR] GetPreferencesIdAsync Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at GCP.DataAccessLibrary.DataAccess.<GetPreferencesSetting>d__100.MoveNext()
+2020-07-18 00:05:37.915 -07:00 [ERR] GetPreferencesIdAsync Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at GCP.DataAccessLibrary.DataAccess.<GetPreferencesSetting>d__100.MoveNext()
+2020-07-18 00:05:38.343 -07:00 [ERR] GetPreferencesIdAsync Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.<PrepareAndEnumerateStatements>d__62.MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync()
+   at GCP.DataAccessLibrary.DataAccess.<GetPreferencesIdAsync>d__101.MoveNext()
+2020-07-18 00:05:38.344 -07:00 [ERR] SavePreferences. Exception:SQLite Error 1: 'no such table: PreferencesSettings'.
+2020-07-18 00:05:38.344 -07:00 [ERR] SavePreferences Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at GCP.DataAccessLibrary.DataAccess.<SavePreferences>d__61.MoveNext()
+2020-07-18 00:05:38.377 -07:00 [INF] Initializing Video Settings
+2020-07-18 00:05:38.451 -07:00 [ERR] GetPreferencesIdAsync Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at GCP.DataAccessLibrary.DataAccess.<GetPreferencesSetting>d__100.MoveNext()
+2020-07-18 00:05:38.452 -07:00 [ERR] GetPreferencesIdAsync Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.<PrepareAndEnumerateStatements>d__62.MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync()
+   at GCP.DataAccessLibrary.DataAccess.<GetPreferencesIdAsync>d__101.MoveNext()
+2020-07-18 00:05:38.452 -07:00 [ERR] SavePreferences. Exception:SQLite Error 1: 'no such table: PreferencesSettings'.
+2020-07-18 00:05:38.452 -07:00 [ERR] SavePreferences Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at GCP.DataAccessLibrary.DataAccess.<SavePreferences>d__61.MoveNext()
+2020-07-18 00:05:38.453 -07:00 [ERR] GetPreferencesIdAsync Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at GCP.DataAccessLibrary.DataAccess.<GetPreferencesSetting>d__100.MoveNext()
+2020-07-18 00:05:38.453 -07:00 [ERR] GetPreferencesIdAsync Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.<PrepareAndEnumerateStatements>d__62.MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync()
+   at GCP.DataAccessLibrary.DataAccess.<GetPreferencesIdAsync>d__101.MoveNext()
+2020-07-18 00:05:38.454 -07:00 [ERR] SavePreferences. Exception:SQLite Error 1: 'no such table: PreferencesSettings'.
+2020-07-18 00:05:38.454 -07:00 [ERR] SavePreferences Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at GCP.DataAccessLibrary.DataAccess.<SavePreferences>d__61.MoveNext()
+2020-07-18 00:05:38.454 -07:00 [INF] Video startup is invoked
+2020-07-18 00:05:38.640 -07:00 [ERR] GetAllVideoSettings. Exception:SQLite Error 1: 'no such table: VideoSettings'.
+2020-07-18 00:05:38.927 -07:00 [INF] Initializing Video Settings set
+2020-07-18 00:05:38.929 -07:00 [ERR] GetPreferencesIdAsync Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.<PrepareAndEnumerateStatements>d__62.MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync()
+   at GCP.DataAccessLibrary.DataAccess.<GetPreferencesIdAsync>d__101.MoveNext()
+2020-07-18 00:05:38.929 -07:00 [ERR] SavePreferences. Exception:SQLite Error 1: 'no such table: PreferencesSettings'.
+2020-07-18 00:05:38.930 -07:00 [ERR] SavePreferences Failed: SQLite Error 1: 'no such table: PreferencesSettings'.    at GCP.DataAccessLibrary.DataAccess.<SavePreferences>d__61.MoveNext()
+2020-07-18 02:39:27.132 -07:00 [INF] SystemTrayForm. Initializing BST.
+2020-07-18 02:39:41.376 -07:00 [ERR] GetDriverGamma. Driver Escape Failed.
+2020-07-18 02:40:10.990 -07:00 [INF] ServiceAvailability. Checking is Svc available
+2020-07-18 02:40:19.517 -07:00 [ERR] ServiceAvailability. IGCC Service not available:The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+2020-07-18 02:40:19.756 -07:00 [INF] Initializing Video Settings
+2020-07-18 02:40:19.996 -07:00 [INF] Video startup is invoked
+2020-07-18 02:40:20.343 -07:00 [INF] Initializing Video Settings set

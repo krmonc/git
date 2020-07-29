@@ -1,0 +1,6 @@
+7/27/2020 9:14:17 AM: start uninstall HPSA
+7/27/2020 9:14:17 AM: Start Misc
+7/27/2020 9:14:17 AM: Start remove custom protocol pop up for HPNC.
+7/27/2020 9:14:17 AM: Elevation key exists at Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{0d8aab1e-ca6d-4618-bef7-37d172c96103}
+7/27/2020 9:14:17 AM: Setting app settings at Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{0d8aab1e-ca6d-4618-bef7-37d172c96103}
+7/27/2020 9:14:17 AM: End Misc

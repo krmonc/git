@@ -1,0 +1,6 @@
+
+1 project : Github tan bir projeyi-kodu getirip (pull from) build etti.
+
+yeni proje : https://guides.github.com/activities/hello-world/
+
+soru: nereye yukledi ???

@@ -1,0 +1,4 @@
+
+COMP 3318 Operating Systems :  `Operating Systems : An Introduction`
+COMP 5356 Advanced Software Project Management 
+COMP 5339 Advanced Software Analysis and Design 

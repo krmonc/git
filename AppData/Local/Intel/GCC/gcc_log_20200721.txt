@@ -1,0 +1,7 @@
+2020-07-21 01:02:20.785 -07:00 [INF] SystemTrayForm. Initializing BST.
+2020-07-21 01:02:21.895 -07:00 [ERR] GetDriverGamma. Driver Escape Failed.
+2020-07-21 01:02:22.677 -07:00 [INF] ServiceAvailability. Checking is Svc available
+2020-07-21 01:02:32.207 -07:00 [ERR] ServiceAvailability. IGCC Service not available:The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+2020-07-21 01:02:32.316 -07:00 [INF] Initializing Video Settings
+2020-07-21 01:02:33.519 -07:00 [INF] Video startup is invoked
+2020-07-21 01:02:33.941 -07:00 [INF] Initializing Video Settings set
