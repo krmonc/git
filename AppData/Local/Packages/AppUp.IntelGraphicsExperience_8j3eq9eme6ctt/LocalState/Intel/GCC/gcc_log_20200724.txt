@@ -1,4 +1,0 @@
-2020-07-24 08:01:41.844 -07:00 [INF] Application Starting.
-2020-07-24 19:18:54.868 -07:00 [INF] OnSuspending. Suspending app... 
-2020-07-24 19:18:56.000 -07:00 [ERR] Error getting the data.
-2020-07-24 19:18:56.043 -07:00 [ERR] DesktopBridgeRequestException. Call UI_SUSPENDED.failed to send desktop bridge message Exception:Request UI_SUSPENDED failed with status Failure
